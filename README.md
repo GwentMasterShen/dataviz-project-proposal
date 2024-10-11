@@ -15,32 +15,22 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Sketches
 ![Sketch1](sketch.jpeg)
+
 Clicking on the bubble will take you to the detailed page of the country.
+
 ![Sketch2](sketch1.jpeg)
 
 ## Prototypes
 
-I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
+According to the basic idea (x-axis to growth rate, y-axis to density, bubble size to population), I made [this very early prototype](https://vizhub.com/GwentMasterShen/9aaea5c82a564afead882d4a64b96200).
 
+![FirstPrototype](first_prototype.png)
 
-
-(please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments, and link to them)
-
-You can put images into here by pasting them into issues.
-
-You can make images into links like this:
-
-```
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
-```
-
-
-Also, you can study the [source](https://raw.githubusercontent.com/curran/dataviz-project-template-proposal/master/README.md) to figure out Markdown formatting. You can use the GitHub built-in editor to edit the document.
-
-## Open Questions
-
-(describe any fear, uncertainty, or doubt you’re having about the feasibility of implementing the sketched system. For example, “I’m not sure where to get the geographic shapes to build a map from this data” or “I don’t know how to resolve the codes to meaningful names” … Feel free to delete this section if you’re confident.)
+This prototype looks weird, almost all countries are at the bottom of the plot, because there is an outlier in density. It's a problem I have to solve. After that, I'll add a bunch of interactive parts, including filters that let the viewer adjust the range of the plot, a drop-down menu for selecting the country to be displayed on the plot, and mouse hovers and clicks.
 
 ## Milestones
 
-(for each week, estimate what would be accomplised)
+* Complete a acceptable bubble chart.
+* Add filter and drop-down menu.
+* Complete the country detail page.
+* Complete mouse clicking and hovering.
