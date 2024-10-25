@@ -34,3 +34,7 @@ This prototype looks weird, almost all countries are at the bottom of the plot, 
 * Add filter and drop-down menu.
 * Complete the country detail page.
 * Complete mouse clicking and hovering.
+
+## Progress
+
+* __Week 1:__ Each bubble is colored to represent the country's continent. To make the data more tightly distributed, I changed the values of the y-axis to the logarithm of the population density. Additionally I manually set the range of values for the x-axis and y-axis of the image. These manipulations made the chart more readable. In future work, I will aim to make the adjusting range part of the interactive part for the viewer.
