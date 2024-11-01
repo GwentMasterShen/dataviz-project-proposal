@@ -40,3 +40,13 @@ This prototype looks weird, almost all countries are at the bottom of the plot, 
 * __Week 1:__ Each bubble is colored to represent the country's continent. To make the data more tightly distributed, I changed the values of the y-axis to the logarithm of the population density. Additionally I manually set the range of values for the x-axis and y-axis of the plot. These manipulations made the chart more readable. In future work, I will aim to make the adjusting range part of the interactive part(e.g. slider) for the viewer. [(Code in Vizhub)](https://vizhub.com/GwentMasterShen/9aaea5c82a564afead882d4a64b96200)
 
 ![Week1](week1.png)
+
+* __Week 2:__ This week I added a slider to allow the viewer to manually adjust the range of the x-axis by using a library "[d3-simple-slider](https://github.com/johnwalley/d3-simple-slider)".
+
+![FullRange](full_range.png)
+
+Full x-axis range.
+
+![PartialRange](partial_range.png)
+
+Adjusted x-axis range.
