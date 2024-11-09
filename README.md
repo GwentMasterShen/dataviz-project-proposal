@@ -50,3 +50,7 @@ Full x-axis range.
 ![PartialRange](partial_range.png)
 
 Adjusted x-axis range.
+
+* __Week 3:__ Inspired by the interactive color legend introduced in class, I added mouse hover interaction to the project this week. When the mouse is hovering over a circle, the circle will temporarily have 100% opacity and the name of the country represented by the circle will be displayed next to the mouse.
+
+![Hovering](hovering.png)
