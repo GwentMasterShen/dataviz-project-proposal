@@ -54,3 +54,9 @@ Adjusted x-axis range.
 * __Week 3:__ Inspired by the interactive color legend introduced in class, I added mouse hover interaction to the project this week. When the mouse is hovering over a circle, the circle will temporarily have 100% opacity and the name of the country represented by the circle will be displayed next to the mouse.
 
 ![Hovering](hovering.png)
+
+* __Week 4:__ This week I added a drop-down menu to my visualization that allows users to choose which continent's countries to display on the plot.
+
+![Dropdown1](dropdown1.png)
+
+![Dropdown2](dropdown2.png)
