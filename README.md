@@ -60,3 +60,7 @@ Adjusted x-axis range.
 ![Dropdown1](dropdown1.png)
 
 ![Dropdown2](dropdown2.png)
+
+* __Week 5:__ I've made a few detail adjustments this week. Country names are displayed on the left side of the mouse when the mouse is on the right half of the chart, and on the right side of the mouse when the mouse is on the left half of the chart. This is to ensure that countries located on the edges also show the full name. I also added two lines that appear when the mouse is hovering over a circle to help the user better estimate the country's population parameter values.
+
+![week5](assistant_line.png)
