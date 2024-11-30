@@ -64,3 +64,8 @@ Adjusted x-axis range.
 * __Week 5:__ I've made a few detail adjustments this week. Country names are displayed on the left side of the mouse when the mouse is on the right half of the chart, and on the right side of the mouse when the mouse is on the left half of the chart. This is to ensure that countries located on the edges also show the full name. I also added two lines that appear when the mouse is hovering over a circle to help the user better estimate the country's population parameter values.
 
 ![week5](assistant_line.png)
+
+## Limitation and Future Works
+In this project I used bubble chart to do data visualization of demographic parameters of each country in the world. Despite adding a lot of interactive features, the amount of information is still limited. So in the initial prototype I designed detail pages for each country to show parameters such as age distribution of the population, gender distribution, and so on. However, this was not done in practice, so this became the future work of the project.
+
+The main challenges in this part at the moment are finding suitable and complete demographic data for each country, designing and building the detail pages, and switching between the main charts and pages.
